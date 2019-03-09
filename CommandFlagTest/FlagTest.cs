@@ -5,7 +5,7 @@ namespace CommandFlagTest
 {
     using CommandFlag;
     [TestClass]
-    public class UnitTest1
+    public class FlagTest
     {
         [TestMethod]
         public void TestMethod1()
